@@ -1,3 +1,7 @@
+# 우아한 테크코스 Java 코드 컨벤션 가이드
+> 제이님의 해석에 중요하다고 생각되는 부분을 표시했습니다.
+번역본 주소 : https://github.com/JunHoPark93/google-java-styleguide
+
 # Google Java Style Guide
 > 이 문서는 우아한형제들의 테크코스를 진행하면서 참고할 문서인 Google Java Style Guide를 한 문장씩 번역하며 공부한 문서입니다. 약간의 의역이 섞여 있을 수 있지만 본 의도는 해치지 않습니다.
 
