@@ -5,6 +5,8 @@
 
 참고 블로그 링크 : [참고 블로그](https://velog.io/@dgh06175/Java-%EA%B5%AC%EA%B8%80-JAVA-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9A%94%EC%95%BD)
 
+참고 블로그 링크2 : [참고 블로그2](https://velog.io/@dlguswl936/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EB%8F%84%EC%A0%84%EA%B8%B0-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+
 # Google Java Style Guide
 > 이 문서는 우아한형제들의 테크코스를 진행하면서 참고할 문서인 Google Java Style Guide를 한 문장씩 번역하며 공부한 문서입니다. 약간의 의역이 섞여 있을 수 있지만 본 의도는 해치지 않습니다.
 
